@@ -3,7 +3,7 @@
 📍 Location: Saudi Arabia  
 🎯 Goal: Learn automation + cloud security  
 📅 Started: May 2026
----
+
 ## What I'm Learning
 - Week 1: Setting up (this is me!)
 
